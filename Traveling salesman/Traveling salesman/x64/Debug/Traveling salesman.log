@@ -1,0 +1,37 @@
+﻿  Traveling_salesman.cpp
+C:\Users\Nastya\Desktop\коммивояжёра\Traveling salesman\Traveling salesman\traveling_salesman.h(353,19): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Traveling_salesman.cpp")
+  
+C:\Users\Nastya\Desktop\коммивояжёра\Traveling salesman\Traveling salesman\traveling_salesman.h(355,19): warning C4244: =: преобразование "float" в "int", возможна потеря данных
+  (компиляция исходного файла "Traveling_salesman.cpp")
+  
+C:\Users\Nastya\Desktop\коммивояжёра\Traveling salesman\Traveling salesman\traveling_salesman.h(606,8): warning C4101: length: неиспользованная локальная переменная
+  (компиляция исходного файла "Traveling_salesman.cpp")
+  
+C:\Users\Nastya\Desktop\коммивояжёра\Traveling salesman\Traveling salesman\traveling_salesman.h(605,8): warning C4101: second: неиспользованная локальная переменная
+  (компиляция исходного файла "Traveling_salesman.cpp")
+  
+C:\Users\Nastya\Desktop\коммивояжёра\Traveling salesman\Traveling salesman\traveling_salesman.h(475,28): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Traveling_salesman.cpp")
+  C:\Users\Nastya\Desktop\коммивояжёра\Traveling salesman\Traveling salesman\traveling_salesman.h(475,28):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Nastya\Desktop\коммивояжёра\Traveling salesman\Traveling salesman\traveling_salesman.h(148,12):
+  	выполняется компиляция ссылки на экземпляр класс шаблон функции "Graph<int>"
+  	C:\Users\Nastya\Desktop\коммивояжёра\Traveling salesman\Traveling salesman\traveling_salesman.h(472,1):
+  	во время компиляции функции-члена класс шаблон "void Graph<int>::graphOutput(void)"
+  		C:\Users\Nastya\Desktop\коммивояжёра\Traveling salesman\Traveling salesman\traveling_salesman.h(656,19):
+  		см. первую ссылку на "Graph<int>::graphOutput" в "display"
+  
+C:\Users\Nastya\Desktop\коммивояжёра\Traveling salesman\Traveling salesman\traveling_salesman.h(486,24): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Traveling_salesman.cpp")
+  
+C:\Users\Nastya\Desktop\коммивояжёра\Traveling salesman\Traveling salesman\traveling_salesman.h(640,11): warning C4267: return: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "Traveling_salesman.cpp")
+  C:\Users\Nastya\Desktop\коммивояжёра\Traveling salesman\Traveling salesman\traveling_salesman.h(640,11):
+  контекст создания экземпляра шаблона (сначала самый старый)
+  	C:\Users\Nastya\Desktop\коммивояжёра\Traveling salesman\Traveling salesman\traveling_salesman.h(636,1):
+  	во время компиляции функции-члена класс шаблон "int Graph<int>::getVertPos(const int &)"
+  		C:\Users\Nastya\Desktop\коммивояжёра\Traveling salesman\Traveling salesman\traveling_salesman.h(662,17):
+  		см. первую ссылку на "Graph<int>::getVertPos" в "display"
+  
+  Traveling salesman.vcxproj -> C:\Users\Nastya\Desktop\коммивояжёра\Traveling salesman\x64\Debug\Traveling salesman.exe
